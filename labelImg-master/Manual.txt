@@ -1,0 +1,7 @@
+sudo apt-get install pyqt5-dev-tools
+sudo pip3 install lxml
+make qt5py3
+
+Using the tool:
+python3 labelImg.py
+python3 labelImg.py [IMAGE_PATH] [PRE-DEFINED CLASS FILE]
