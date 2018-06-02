@@ -7,7 +7,7 @@ make qt5py3
 
 Using the tool:
 
-Go to folder.
+Go to folder
 
 cd labelImg-master
 python3 labelImg.py
